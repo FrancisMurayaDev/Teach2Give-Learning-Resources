@@ -1,9 +1,9 @@
-h2{
+h2 {
   background-color: aliceblue;
 }
 div {
-  display: inline-block
+  display: inline-block;
 }
-body{
+body {
   margin-left: 50px;
 }
